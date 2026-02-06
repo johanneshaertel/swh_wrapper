@@ -1,0 +1,5 @@
+.env
+.venv
+.cache_wsl
+.pycache_wsl
+tmp
