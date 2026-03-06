@@ -3,3 +3,4 @@
 .cache_wsl
 .pycache_wsl
 tmp
+data/models

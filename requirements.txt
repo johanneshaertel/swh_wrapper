@@ -1,2 +1,6 @@
 requests
 dotenv
+pandas
+pyarrow
+scikit-learn
+numpy

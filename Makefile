@@ -6,3 +6,9 @@ venv:
 
 run:
 	.venv/bin/python -m src.test
+
+eval:
+	.venv/bin/python -m src.eval
+
+clean-models:
+	rm -rf data/models
